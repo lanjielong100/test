@@ -4,14 +4,15 @@
 package edu.fjnu.empmis.ui;
 
 /**
- * @author À¼½ÜÁú
+ * @author ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  *
  */
 public interface BaseUI {
 	
 	/**
-	 *  UIÄ£¿éÆô¶¯×¨ÓÐ·½·¨
+	 *  UIÄ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×¨ï¿½Ð·ï¿½ï¿½ï¿½
 	 */
 	void run();
+	public void b();
 
 }
