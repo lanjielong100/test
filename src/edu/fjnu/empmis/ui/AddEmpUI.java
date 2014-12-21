@@ -16,6 +16,9 @@ public class AddEmpUI implements BaseUI {
 
 	@Override
 	public void h() {
+	}
+	public void c() {
+
 		// TODO Auto-generated method stub
 		
 	}
